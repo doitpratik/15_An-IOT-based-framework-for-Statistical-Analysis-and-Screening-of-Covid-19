@@ -37,11 +37,11 @@
 	Breadboard
 
 ### Software Used:
-	#### Mobile Application :
+	Mobile Application :
 		SQL Database
 		Android Studio
 		Python Flask Framework
-	#### Website :
+	Website :
 		HTML
 		CSS
 		Python Flask Framework
