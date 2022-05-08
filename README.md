@@ -1,11 +1,11 @@
-An IOT based framework for Statistical Analysis and Screening of Covid-19
+# An IOT based framework for Statistical Analysis and Screening of Covid-19
 
-Team Members:
+### Team Members:
 	Pratik Gholap
 	Priyanka Walekar
 	Apoorva Gadkari
 
-Project Description:
+### Project Description:
 	 The Hardware Framework will be used to collect the information on vitals and the data
 	generated will be stored in a database where the details of the user will be stored along
 	with their device number which will be an ID as identification for the users. A table will be
@@ -28,7 +28,7 @@ Project Description:
 	 The Webpage/Website is not a process for normal user/user. This website will just be
 	having the data which can be used only for research purposes.
 
-Hardware Used:
+### Hardware Used:
 	Arduino Uno
 	LM35 temperature sensor
 	Oximeter, Heart Rate Sensor(HBTV2)
@@ -36,7 +36,7 @@ Hardware Used:
 	Male-female wires
 	Breadboard
 
-Software Used:
+### Software Used:
 	Mobile Application :
 		SQL Database
 		Android Studio
